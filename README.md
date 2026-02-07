@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there ,
+I'm Navanil 👋
 
+🔐 Interested in Cybersecurity & Ethical Hacking  
+🐍 Python Developer  
+🐧 Learning Linux & System Internals  
+
+Projects:
+- Network Scanner (Python)
+- Port Scanner
+- Automation Scripts
 <!--
 **navanil-das/navanil-das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
